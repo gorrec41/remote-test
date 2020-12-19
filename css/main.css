@@ -1,3 +1,4 @@
+
 .header {
   padding: 50px 100px;
   background: #999;
@@ -5,7 +6,7 @@
   text-transform: uppercase;
   font-family: sans-serif;
   font-size: 32px;
-  color: #fff;
+  color: #ffffff;
 }
 .main {
   padding: 50px 100px;
@@ -15,4 +16,13 @@
   font-family: sans-serif;
   font-size: 38px;
   color: #ffffff;
+}
+.footer {
+  padding: 30px 100px;
+  background: rgb(60, 55, 55);
+  text-align: center;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 32px;
+  color: #fff;
 }
